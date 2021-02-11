@@ -1,14 +1,9 @@
 This repository is dedicated to the MnIvIKT 11.02.2020 exam
 
-The folders:
-    - 01/
-    - 02/
-    - 03/
-    - 04/
-    - _build/
-    - images/
-are from the original pulled repository from https://github.com/Notebook-Factory/myelin-meta-analysis
+The reproducible code provided by the researchers is forked from the repository on https://github.com/Notebook-Factory/myelin-meta-analysis
 
 The plotly figures can be seen through https://nbviewer.jupyter.org/
 
-The folder 00 contains the answers to the exam questions and a jupyter notebook intro to the research paper
+The answers to the .pdf exam can be found in Answers/MnIvIKT_Exam20200211_Answers.pdf
+
+The notebook, figures and datasets can be found in notebooks_datasets_figures/
